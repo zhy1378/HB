@@ -1,0 +1,252 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"create",
+				"createComponents"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"rea",
+				"repeater"
+			],
+			[
+				"ani",
+				"animated"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/zhy1378/projects/HB/draft/明400-09-04E张秋山.md",
+		"/Users/zhy1378/Library/Mobile Documents/com~apple~CloudDocs/H•B见闻录/H•B见闻录B-0.txt",
+		"/Users/zhy1378/Library/Mobile Documents/com~apple~CloudDocs/H•B见闻录/sound-distance.py",
+		"/Users/zhy1378/Library/Mobile Documents/com~apple~CloudDocs/H•B见闻录/H•B见闻录B-0",
+		"/Users/zhy1378/Library/Mobile Documents/com~apple~CloudDocs/H•B见闻录/H•B人物.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/index.html",
+		"/Users/zhy1378/Library/Mobile Documents/com~apple~CloudDocs/H•B见闻录/H•B见闻录-0.txt",
+		"/Users/zhy1378/Library/Mobile Documents/com~apple~CloudDocs/H•B见闻录/H•B见闻录-1.txt",
+		"/Users/zhy1378/Library/Mobile Documents/com~apple~CloudDocs/H•B见闻录/H•B见闻录-1",
+		"/Users/zhy1378/Library/Mobile Documents/com~apple~CloudDocs/H•B见闻录/Chapter-0.txt",
+		"/Users/zhy1378/Library/Mobile Documents/com~apple~CloudDocs/Chapter-0.txt",
+		"/Users/zhy1378/projects/SizierSwift/SizierSwift/MasterViewController.xib",
+		"/Users/zhy1378/projects/LoYiW-SNMP",
+		"/Applications/XAMPP/xamppfiles/htdocs/LoYiW/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/WLoca:index.php",
+		"/Users/zhy1378/Dropbox/Roman/伐清/Hans Bogenmacher见闻录/070-074.txt",
+		"/Users/zhy1378/projects/kivy.py3",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/source/style/OK.Panorama.TimeLine.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/source/views/Ok.Panorama.SimpleSlider.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/source/views/views.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/source/data/blocks.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/source/views/Ok.Panorama.Block.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/source/style/Ookai.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/source/style/Ok.Panorama.Blocks.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/source/data/defines.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/source/views/Ok.Panorama.TimeBar.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/source/data/times.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/source/views/Ok.Panorama.ImagePopup.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/source/views/package.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/phpinfo.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/source/views/Ok.Panorama.Video.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/source/views/Ok.Panorama.Cover.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/source/views/Ok.Panorama.MinMax.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/debug.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/source/views/Ok.Panorama.Slider.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/lib/moonstone/source/Panel.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/source/views/Ok.Panorama.List.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/source/views/Ok.Panorama.Images.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/source/views/Ok.Panorama.Grid.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/source/style/Ok.Panorama.MinMax.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/source/views/Ok.Panorama.TimeLine.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/source/views/Ok.Panorama.Time.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/source/data/ok.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/source/views/Ok.Panorama.Blocks.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/source/views/Ok.Panorama.ImageText.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/lib/jssor/img/a13.png",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/lib/jssor/img/1920/red.jpg",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/source/style/Ok.Panorama.VideoSample.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/source/style/Ok.Panorama.Clock.css",
+		"/Users/zhy1378/projects/GameBegin2/local.properties",
+		"/Users/zhy1378/projects/GameBegin/local.properties",
+		"/Users/zhy1378/projects/GameBegin2/gradle.properties",
+		"/Users/zhy1378/Pictures/Min.svg",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/admin.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/OokaiPanorama/source/data/config.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"叶天宇",
+			"囧",
+			"囧帝",
+			"囧",
+			"ImagePopup",
+			"ImageText",
+			"this.$.title",
+			"this.$.time",
+			"\"Ok.Panorama.Time\"",
+			"tag",
+			"overflow",
+			"console.log",
+			"okBig",
+			"box",
+			"animate",
+			"fixed"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"太囧大帝",
+			"Image",
+			"ImagePopup",
+			"'Ok.Panorama.TimeBar'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/zhy1378/projects/NewCapec/NewCapec-libGDX/core/src/NewCapecController_libGDX.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 303.0,
+	"status_bar_visible": true
+}
