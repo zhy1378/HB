@@ -1,6 +1,12 @@
 #《Hans Bogenmacher 见闻录》
 用GitHub 来作为一部小说的**首发地**，似乎是非常新颖的做法。  
 
+## 说明
+### .md 后缀的文件直接点开即可阅读
+### drafts 文件夹里面是草稿
+### others 文件夹里面是其它
+### images 文件夹里面是图片，包括地图
+
 ## [Hans Bogenmacher 见闻录•作者自序](作者自序.md)
 ## [Hans Bogenmacher 见闻录•引子](引子.md)
 ## [龙套招募](龙套招募.md)
